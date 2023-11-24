@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.basic.kendaraan;
+package com.dicoding.javafundamental.strukturdasar.kendaraan;
 
 public class Kereta {
     public static void jumlahBan() {

@@ -1,9 +1,9 @@
-package com.dicoding.javafundamental.basic;
+package com.dicoding.javafundamental.strukturdasar;
 
-import com.dicoding.javafundamental.basic.kendaraan.Kereta;
-import com.dicoding.javafundamental.basic.kendaraan.Mobil;
-import com.dicoding.javafundamental.basic.kendaraan.Motor;
-import com.dicoding.javafundamental.basic.musik.Gitar;
+import com.dicoding.javafundamental.strukturdasar.kendaraan.Kereta;
+import com.dicoding.javafundamental.strukturdasar.kendaraan.Mobil;
+import com.dicoding.javafundamental.strukturdasar.kendaraan.Motor;
+import com.dicoding.javafundamental.strukturdasar.musik.Gitar;
 import org.apache.commons.lang3.time.DateUtils;
 
 import java.util.Date;

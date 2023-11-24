@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.basic.musik;
+package com.dicoding.javafundamental.strukturdasar.musik;
 
 public class Gitar {
     public static void bunyi() {
