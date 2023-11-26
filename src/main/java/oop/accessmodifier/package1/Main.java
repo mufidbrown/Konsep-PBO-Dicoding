@@ -1,4 +1,6 @@
-package oop.accessmodifier;
+package oop.accessmodifier.package1;
+
+import oop.accessmodifier.package1.KelasA;
 
 public class Main {
     public static void main(String[] args) {
